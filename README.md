@@ -70,6 +70,8 @@
 
 - **🤖 人机验证**：集成Turnstile人机验证，防止人机批量注册
 
+- **⚡️ OAuth2**：支持Google、GitHub和LinuxDo的OAuth认证 [配置OAuth2](https://doc.skymail.ink/oauth2/oauth2.html)
+
 - **📜 更多功能**：正在开发中...
 
 
